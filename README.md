@@ -1,2 +1,0 @@
-# MemeoryGit
-memory
