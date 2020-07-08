@@ -6,3 +6,6 @@ int Sub(a,b)
 
 int Mul(a,b)
     return a*b
+
+int Div(a,b)
+     return a/b
